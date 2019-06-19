@@ -39,6 +39,11 @@ height: 60px;
 }
 
 /* HEADER */
+/* header .container-fluid{
+  position: fixed;
+  /* background-color: white; */
+
+
 .newgrey{
   float: left;
   background-color: #00d7d2;
@@ -136,6 +141,17 @@ height: 60px;
 .deploy .img-responsive{
   width: 40px;
   height: 36px;
+}
+/*  SECTIONDESIGNED*/
+
+.sectiondesigned {
+  background-color: #F3F5FA;
+}
+
+/* SEZIONE TABELLA */
+
+.tabella{
+  background-image: url("img/bg2.svg");
 }
 /* FOOTER */
 
