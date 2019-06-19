@@ -30,6 +30,13 @@ img .img-responsive{
   height: auto;
   border: 0;
 }
+.padding{
+height: 100px;
+}
+
+.padding60{
+height: 60px;
+}
 
 /* HEADER */
 .newgrey{
@@ -73,7 +80,7 @@ img .img-responsive{
   margin-bottom: 0;
 
 }
-
+/* WELCOME DEV SECTION */
 .welcomeDev {
   background-image: url("img/bg-1.jpg");
 }
@@ -92,18 +99,6 @@ img .img-responsive{
     border-radius: 5px;
     margin: 0;
     padding: 32px;
-}
-
-
-.padding{
-height: 100px;
-
-
-}
-.padding60{
-height: 60px;
-
-
 }
 
 /*  speakus section*/
@@ -126,6 +121,21 @@ height: 60px;
 
 .speakus .col-xs-12 a{
   color: blue;
+}
+
+/* DEPLOY SECTION  */
+
+.deploy h2{
+  color: #031B4E;
+}
+
+.deploy h4{
+  font-size: 25px;
+  color: #4E5F84;
+}
+.deploy .img-responsive{
+  width: 40px;
+  height: 36px;
 }
 /* FOOTER */
 
