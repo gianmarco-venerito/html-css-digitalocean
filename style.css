@@ -153,6 +153,13 @@ height: 60px;
 .tabella{
   background-image: url("img/bg2.svg");
 }
+
+/* GETSTARTED SECTION */
+.getstarted {
+  background-image: url("img/bg3.jpg");
+  color: white;
+}
+
 /* FOOTER */
 
 footer{
